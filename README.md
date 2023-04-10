@@ -13,7 +13,7 @@ My Rust Notebook.
 - [nanpuyue/trsh](https://github.com/nanpuyue/trsh) *sockets with crypto*
 - [nanpuyue/sha256](https://github.com/nanpuyue/sha256) *sha256 in rust*
   - https://blog.nanpuyue.com/2019/049.html *blog post*
-- []()
+- [nanpuyue/crc_all](https://github.com/nanpuyue/crc_all)
 
 
 
